@@ -20,4 +20,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [YOUR_GITHUB_LINK_HERE]
+   git clone [(https://github.com/lea12230079/cs_quizApp.git)]
